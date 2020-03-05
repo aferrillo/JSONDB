@@ -19,11 +19,6 @@
             "PhoneList": [
                 {
                     "EmployeeId": 0,
-                    "Mobile": "85869",
-                    "LandLine": ""
-                },
-                {
-                    "EmployeeId": 0,
                     "Mobile": "95690",
                     "LandLine": ""
                 }
@@ -109,11 +104,6 @@
                     "EmployeeId": 0,
                     "Mobile": "60747",
                     "LandLine": "44131"
-                },
-                {
-                    "EmployeeId": 0,
-                    "Mobile": "60748",
-                    "LandLine": "44132"
                 },
                 {
                     "EmployeeId": 0,
