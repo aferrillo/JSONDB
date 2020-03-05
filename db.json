@@ -283,23 +283,6 @@
                     "PostalCode": "47475"
                 }
             ],
-            "PhoneList": [
-                {
-                    "EmployeeId": 0,
-                    "Mobile": "60747",
-                    "LandLine": "44131"
-                },
-                {
-                    "EmployeeId": 0,
-                    "Mobile": "60748",
-                    "LandLine": "44132"
-                },
-                {
-                    "EmployeeId": 0,
-                    "Mobile": "60749",
-                    "LandLine": "44133"
-                }
-            ],
             "OperationType": "Add"
         }
     ]
