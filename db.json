@@ -252,69 +252,6 @@
         }
       ],
       "OperationType": "Add"
-    },
-    {
-      "EmployeeId": 905,
-      "Initials": "Init905   ",
-      "FirstName": "FirstName905",
-      "MiddleName": "MiddleName905",
-      "LastName": "LastName905",
-      "DisplayName": "DisplayName905",
-      "BirthDate": "\/Date(1392212564040+0530)\/",
-      "JoiningDate": null,
-      "ModifiedDate": null,
-      "Email": "Test905@hcl.com",
-      "Gender": true,
-      "DepartmentId": "905",
-      "CompanyCode": "905",
-      "UserName": "",
-      "AddressList": [
-        {
-          "EmployeeId": 0,
-          "AddressLine1": "AddressLine1",
-          "AddressLine2": "AddressLine1",
-          "City": "City1",
-          "State": "State1",
-          "Country": "Country1",
-          "PostalCode": "47473"
-        },
-        {
-          "EmployeeId": 0,
-          "AddressLine1": "AddressLine2",
-          "AddressLine2": "AddressLine2",
-          "City": "City2",
-          "State": "State2",
-          "Country": "Country2",
-          "PostalCode": "47474"
-        },
-        {
-          "EmployeeId": 0,
-          "AddressLine1": "AddressLine3",
-          "AddressLine2": "AddressLine3",
-          "City": "City3",
-          "State": "State3",
-          "Country": "Country3",
-          "PostalCode": "47475"
-        }
-      ],
-      "PhoneList": [
-        {
-          "EmployeeId": 0,
-          "Mobile": "60747",
-          "LandLine": "44131"
-        },
-        {
-          "EmployeeId": 0,
-          "Mobile": "60748",
-          "LandLine": "44132"
-        },
-        {
-          "EmployeeId": 0,
-          "Mobile": "60749",
-          "LandLine": "44133"
-        }
-      ],
-      "OperationType": "Add"
     }
   ]
 }
